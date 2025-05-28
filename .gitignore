@@ -1,0 +1,9 @@
+# Ignore object files (compiled files)
+*.o
+
+# Ignore executable file
+minishell
+
+# Temporary files
+*~
+*.swp
